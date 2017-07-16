@@ -23,7 +23,11 @@ dada
 
 
 
+<<<<<<< HEAD
 
 
 
 ffffffffffffff
+=======
+hahahahhhaahahh
+>>>>>>> feature1
