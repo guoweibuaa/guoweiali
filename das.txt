@@ -23,14 +23,3 @@ dada
 kkkkkkkkkk
 
 
-<<<<<<< HEAD
-
-
-
-
-
-
-pppppppp
-=======
-pppppppp
->>>>>>> feat
